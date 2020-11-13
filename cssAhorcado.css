@@ -1,0 +1,20 @@
+form{
+    text-align: center;
+}
+
+.inser{
+    text-align: center;
+    margin-left: 33%;
+    display: inline-flex;
+    letter-spacing: 20px;
+}
+
+.pi{
+    color: white;
+    margin: 5px;
+    border-color: cornflowerblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
